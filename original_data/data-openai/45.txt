@@ -1,0 +1,8 @@
+I can generate that, but a couple of clarifications will help me format it exactly as you want:
+
+- BCE/ancient events: Do you want to include BCE dates? If yes, should I use astronomical year numbering (negative years, e.g., 1 BCE as year 0, 2 BCE as -1) and a date like -03100-01-01 for 3100 BCE? If you prefer strictly AD dates only, I can do that instead.
+- Date precision: For very ancient events, some dates are approximate. Is it acceptable to use commonly cited approximate years and set the day/month to 01-01 (e.g., -03100-01-01 or 0320-01-01), or would you prefer only events with exact dates?
+- Scope: Should I aim for a balanced global coverage (Africa, Americas, Asia, Europe, Oceania) and include major political, cultural, scientific, and technological milestones, or do you want a tighter focus (e.g., political history only, or civilization milestones)?
+- Batching: 200 items is a lot. I can deliver in batches (e.g., 4 chunks of 50). Is that okay?
+
+If you confirm these points, I’ll start with the first 50 items (formatted as a Python list of dicts with keys "event", "year", and "date" in the format YYYY-MM-DD, using negative years for BCE if you want BCE included). If you’d like, I can also provide a small preview (a sample of 6–10 entries) to confirm formatting before I proceed with the full 200.

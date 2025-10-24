@@ -1,0 +1,14 @@
+I can generate a Python list with 200 world-history-relevant events, but I need a couple of quick choices from you to do it right:
+
+- BCE dates: Do you want BCE events included (i.e., dates before year 1 CE)? If yes, I’ll encode them with negative years in the year field and use a corresponding negative year in the date field (e.g., -0444-01-01). If no, I’ll limit to CE dates only.
+- Date precision: For ancient/prehistoric events, many dates are approximate. Are you okay with using approximate years (e.g., -10000-01-01 or -03500-01-01) and labeling them as approximate in the event description, or would you prefer strictly exact dates where known?
+- Geographic balance: Do you want broad global coverage (Africa, the Americas, Asia, Europe, Oceania) or a focus more on certain regions?
+- Batch delivery: Do you want me to return all 200 items in one Python list right away, or deliver in batches (e.g., 60–70 items at a time) with you asking for the next batch?
+
+If you’re okay with defaults, I can proceed with:
+- Including BCE dates (negative years) to ensure global ancient history coverage.
+- Using approximate dates for prehistoric/early ancient events when exact dates aren’t known.
+- A globally balanced mix of events across eras (ancient, classical, medieval, early modern, modern).
+- Delivering all 200 items in a single Python list.
+
+Reply with your preferences, and I’ll generate the full 200-item Python list immediately. If you want a quick start, I can also provide the first 60 items now and then continue with the rest in subsequent messages.

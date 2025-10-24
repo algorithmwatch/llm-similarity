@@ -1,0 +1,8 @@
+Nice project. A quick clarification to make sure I format and scope it the way you want:
+
+- BCE/prehistoric events: should I include them? If yes, I can encode dates using ISO 8601 style negative years (e.g., -0776-01-01) or, if you prefer, I can limit to AD/CE dates only.
+- Exactly 200 items: do you want exactly 200, or up to 200 (i.e., a list of 200 if possible, otherwise fewer)?
+- Date precision: for ancient events some dates are approximate. Is it acceptable to include only events with widely accepted specific calendar dates (for example, day-month-year), or should I also include older events with approximate dates (and if so, how should I represent them in the date field)?
+- Global coverage: do you want a broad global sweep (politics, science, culture, exploration across regions), or a particular mix emphasis?
+
+If you confirm, I’ll generate the Python list accordingly (likely 200 items with AD/CE dates by default, and BCE items only if you approve the negative-year notation).

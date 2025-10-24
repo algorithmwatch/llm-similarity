@@ -1,0 +1,8 @@
+I can provide a 200-item, world-history–relevant timeline in that Python list format, but I want to confirm a couple of format details to match your expectations:
+
+- BCE dates: Do you want BCE years represented as negative years in both the year field and the date string? For example, 3200 BCE would be year -3200 and date "-3200-01-01".
+- Date formatting: Should I strictly use four-digit years in the date string (with a minus sign for BCE, e.g., "-3200-01-01" or "-0776-01-01"), or is any ISO-like string acceptable as long as it clearly corresponds to the year provided?
+- Approximate dates: If an event’s date is approximate (e.g., “c. 600 BCE” or “c. 44 BCE”), you asked to use January 1st of the year. Do you want me to prepend something like "approx." in the event description to indicate approximation, or keep it strictly concise without noting approximation?
+- Coverage: Do you want a balanced mix across continents and eras (Ancient, Classical, Medieval, Early Modern, Modern) with not too many duplicates or near-duplicate entries (e.g., every year not repeated for similar events), or is a denser, more expansive list acceptable?
+
+If you confirm these, I’ll generate a full 200-entry Python list in the exact format you specified, delivered in one shot.

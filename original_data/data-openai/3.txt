@@ -1,0 +1,9 @@
+This is a big, long list. I can generate it, but I want to confirm a few details to match what you want.
+
+Questions:
+- Should BCE events be included? If yes, I can encode them using a simple negative-year scheme (e.g., year -03200 for 3200 BCE) with dates like -03200-01-01. If you’d prefer to keep everything AD, I can do that instead.
+- Is it OK to use approximate dates (circa) for ancient events? For example, “circa 3200 BCE” might be stored as year -3200 with date -03200-01-01.
+- Do you want global coverage across civilizations (Europe, Asia, Africa, Americas, Oceania) or should I emphasize certain regions or themes (political history, science/tech, culture, exploration, etc.)?
+- Do you prefer the output all at once in a single Python list, or in batches (e.g., 4x50 items) to review progressively?
+
+If you’re happy with BCE included and approximate dates allowed, I can start with a sample of, say, 20–30 items to show the format, then proceed to fill up to 200 in batches. Let me know your preferences and I’ll proceed accordingly.

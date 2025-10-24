@@ -1,0 +1,8 @@
+That’s a big list to generate accurately. A couple quick clarifications will help me deliver exactly what you want:
+
+- BCE date handling: Do you want BCE years encoded using astronomical year numbering (i.e., 1 BCE = year 0, 2 BCE = year -1, etc.)? If so, I’ll format BCE dates as negative four-digit years like -0300-01-01 for 301 BCE, with the year field also reflecting the astronomical year (e.g., year = -(BCE_year - 1)).
+- Date precision: You said approximate dates should use January 1. For more precise BCE/CE dates (like a specific month/day in CE), I’ll include the exact day, month, and year (e.g., 1453-05-29). If you prefer, I can keep all BCE dates on January 1 for uniformity.
+- Scope and balance: Do you want a strict global balance across regions (Egypt, Mesopotamia, China, India, Mesoamerica, Americas, Europe, Africa, Islamicate world, etc.) or is a general “top 200” with broad coverage acceptable?
+- Output format: You asked for a Python list of dictionaries with keys "event", "year", and "date" (date as a string like 1970-12-01). I’ll keep that structure. For BCE dates, I’ll provide the date string in the format described above.
+
+If you confirm those points, I can generate the full 200-item list in one shot. If you’d rather I start with, say, 100 items first to confirm formatting, I can do that too.

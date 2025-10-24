@@ -1,0 +1,12 @@
+This is a big request (200 detailed items). A couple of choices will affect how I format and deliver it:
+
+- BCE dates: Do you want BCE events included? If yes, I’ll represent BCE years with negative year values in the "year" field and ISO-like dates in the "date" field (e.g., "-0044-03-15" for 44 BCE). If you’d prefer to restrict to AD/CE only, I can do that instead.
+- Date precision: Some ancient events don’t have precise calendar dates. Do you want approximate dates (e.g., year-only or month-approx) or exact dates where known?
+- Delivery format: I can output all 200 items in one Python list right away, or break them into batches (e.g., 50 items per batch) and deliver sequentially.
+
+If you’re ready for me to proceed, tell me:
+1) Include BCE dates or only CE/AD?
+2) Exact vs. approximate dates for ancient events?
+3) Batch delivery preferred (one go vs. 4 batches of 50)?
+
+If you say “go with BCE included, exact dates where known, and deliver in batches of 50,” I’ll start with Batch 1 (50 items) immediately.

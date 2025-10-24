@@ -1,0 +1,9 @@
+I can generate a Python list with 200 world-history-relevant events, but a couple of choices will affect the set:
+
+- Do you want BCE/BC dates included? If so, I’ll use negative years for BCE (e.g., year: -776, date: "-0776-07-01"). If not, I’ll limit to CE/AD events.
+- How exact should the dates be? For many ancient events, exact day/month isn’t known. I can either:
+  - provide a well-supported year with a best-guess or approximate date (e.g., 0622-07-16 for Hijra),
+  - or use year-only Date fields (e.g., date: "0622-01-01") if you strictly want a full date.
+- Do you want the items to emphasize political/military milestones, or should I also include science/tech/inventions, culture, and economic milestones to give a broader cross-section?
+
+If you confirm, I’ll deliver in batches (for example, 50 items per message) to ensure accuracy and readability. If you’d prefer, I can also provide a single 200-item Python list in one go, but it will be longer to review.

@@ -1,0 +1,218 @@
+[
+    {"event": "Likely emergence of Homo sapiens", "year": -300000, "date": "1970-01-01"}, # Approximate, using epoch start for BCE dates
+    {"event": "Development of early agriculture in the Fertile Crescent", "year": -10000, "date": "1970-01-01"},
+    {"event": "Invention of writing (Sumerian cuneiform)", "year": -3200, "date": "1970-01-01"},
+    {"event": "Construction of the Great Pyramid of Giza begins", "year": -2580, "date": "1970-01-01"},
+    {"event": "Code of Hammurabi established", "year": -1754, "date": "1970-01-01"},
+    {"event": "The Exodus (traditional dating)", "year": -1300, "date": "1970-01-01"},
+    {"event": "Founding of Rome (legendary)", "year": -753, "date": "1970-01-01"},
+    {"event": "Buddha's death", "year": -483, "date": "1970-01-01"},
+    {"event": "Socrates' death", "year": -399, "date": "1970-01-01"},
+    {"event": "Alexander the Great's conquests begin", "year": -334, "date": "1970-01-01"},
+    {"event": "Qin Shi Huang unifies China and begins Great Wall construction", "year": -221, "date": "1970-01-01"},
+    {"event": "Punic Wars begin", "year": -264, "date": "1970-01-01"},
+    {"event": "Julius Caesar assassinated", "year": -44, "date": "1970-01-01"},
+    {"event": "Augustus becomes first Roman Emperor", "year": -27, "date": "1970-01-01"},
+    {"event": "Birth of Jesus Christ", "year": -4, "date": "1970-01-01"}, # Approximate
+    {"event": "Destruction of the Second Temple in Jerusalem", "year": 70, "date": "1970-01-01"},
+    {"event": "Constantine issues Edict of Milan, legalizing Christianity", "year": 313, "date": "1970-01-01"},
+    {"event": "Council of Nicaea", "year": 325, "date": "1970-01-01"},
+    {"event": "Fall of the Western Roman Empire", "year": 476, "date": "1970-01-01"},
+    {"event": "Muhammad receives first revelation", "year": 610, "date": "1970-01-01"},
+    {"event": "Battle of Tours", "year": 732, "date": "1970-01-01"},
+    {"event": "Charlemagne crowned Holy Roman Emperor", "year": 800, "date": "1970-01-01"},
+    {"event": "Viking raids begin in Western Europe", "year": 793, "date": "1970-01-01"},
+    {"event": "Great Schism (East-West Schism)", "year": 1054, "date": "1970-01-01"},
+    {"event": "Norman Conquest of England", "year": 1066, "date": "1970-01-01"},
+    {"event": "First Crusade", "year": 1095, "date": "1970-01-01"},
+    {"event": "Founding of the Mongol Empire by Genghis Khan", "year": 1206, "date": "1970-01-01"},
+    {"event": "Magna Carta signed", "year": 1215, "date": "1970-01-01"},
+    {"event": "Marco Polo's journey to China", "year": 1271, "date": "1970-01-01"},
+    {"event": "Black Death reaches Europe", "year": 1347, "date": "1970-01-01"},
+    {"event": "Gutenberg invents printing press with movable type", "year": 1440, "date": "1970-01-01"},
+    {"event": "Fall of Constantinople", "year": 1453, "date": "1970-01-01"},
+    {"event": "Christopher Columbus reaches the Americas", "year": 1492, "date": "1970-01-01"},
+    {"event": "Vasco da Gama reaches India by sea", "year": 1498, "date": "1970-01-01"},
+    {"event": "Martin Luther posts the Ninety-five Theses, starting the Reformation", "year": 1517, "date": "1970-01-01"},
+    {"event": "Magellan's circumnavigation of the Earth", "year": 1519, "date": "1970-01-01"},
+    {"event": "Conquest of the Aztec Empire by Hernán Cortés", "year": 1521, "date": "1970-01-01"},
+    {"event": "Conquest of the Inca Empire by Francisco Pizarro", "year": 1533, "date": "1970-01-01"},
+    {"event": "Copernicus publishes 'De revolutionibus orbium coelestium'", "year": 1543, "date": "1970-01-01"},
+    {"event": "Council of Trent begins", "year": 1545, "date": "1970-01-01"},
+    {"event": "Spanish Armada defeated", "year": 1588, "date": "1970-01-01"},
+    {"event": "Galileo Galilei makes astronomical observations with his telescope", "year": 1609, "date": "1970-01-01"},
+    {"event": "Founding of Jamestown", "year": 1607, "date": "1970-01-01"},
+    {"event": "Thirty Years' War begins", "year": 1618, "date": "1970-01-01"},
+    {"event": "Pilgrims land at Plymouth Rock", "year": 1620, "date": "1970-01-01"},
+    {"event": "Scientific Revolution gains momentum", "year": 1640, "date": "1970-01-01"}, # Representing a period
+    {"event": "English Civil War begins", "year": 1642, "date": "1970-01-01"},
+    {"event": "Peace of Westphalia ends Thirty Years' War", "year": 1648, "date": "1970-01-01"},
+    {"event": "Restoration of the English monarchy", "year": 1660, "date": "1970-01-01"},
+    {"event": "Isaac Newton publishes 'Principia Mathematica'", "year": 1687, "date": "1970-01-01"},
+    {"event": "Glorious Revolution in England", "year": 1688, "date": "1970-01-01"},
+    {"event": "Peter the Great becomes Tsar of Russia", "year": 1682, "date": "1970-01-01"},
+    {"event": "Enlightenment begins", "year": 1715, "date": "1970-01-01"}, # Representing a period
+    {"event": "Seven Years' War begins", "year": 1756, "date": "1970-01-01"},
+    {"event": "James Watt improves the steam engine", "year": 1769, "date": "1970-01-01"},
+    {"event": "Adam Smith publishes 'The Wealth of Nations'", "year": 1776, "date": "1970-01-01"},
+    {"event": "American Revolution ends", "year": 1783, "date": "1970-01-01"},
+    {"event": "French Revolution begins", "year": 1789, "date": "1970-01-01"},
+    {"event": "Haitian Revolution begins", "year": 1791, "date": "1970-01-01"},
+    {"event": "Napoleon Bonaparte rises to power", "year": 1799, "date": "1970-01-01"},
+    {"event": "Napoleonic Wars begin", "year": 1803, "date": "1970-01-01"},
+    {"event": "Haitian Revolution succeeds, nation declares independence", "year": 1804, "date": "1970-01-01"},
+    {"event": "Latin American independence movements gain momentum", "year": 1810, "date": "1970-01-01"},
+    {"event": "Battle of Waterloo, Napoleon defeated", "year": 1815, "date": "1970-01-01"},
+    {"event": "Monroe Doctrine proclaimed", "year": 1823, "date": "1970-01-01"},
+    {"event": "Revolutions of 1848 sweep Europe", "year": 1848, "date": "1970-01-01"},
+    {"event": "Karl Marx and Friedrich Engels publish 'The Communist Manifesto'", "year": 1848, "date": "1970-01-01"},
+    {"event": "Darwin publishes 'On the Origin of Species'", "year": 1859, "date": "1970-01-01"},
+    {"event": "American Civil War begins", "year": 1861, "date": "1970-01-01"},
+    {"event": "Unification of Italy", "year": 1861, "date": "1970-01-01"},
+    {"event": "Emancipation Proclamation", "year": 1863, "date": "1970-01-01"},
+    {"event": "Meiji Restoration in Japan", "year": 1868, "date": "1970-01-01"},
+    {"event": "Unification of Germany", "year": 1871, "date": "1970-01-01"},
+    {"event": "Congress of Berlin", "year": 1878, "date": "1970-01-01"},
+    {"event": "Scramble for Africa intensifies", "year": 1880, "date": "1970-01-01"}, # Representing a period
+    {"event": "Invention of the telephone", "year": 1876, "date": "1970-01-01"},
+    {"event": "Invention of the light bulb", "year": 1879, "date": "1970-01-01"},
+    {"event": "First automobile", "year": 1886, "date": "1970-01-01"},
+    {"event": "Einstein publishes theory of special relativity", "year": 1905, "date": "1970-01-01"},
+    {"event": "Wright brothers achieve first successful airplane flight", "year": 1903, "date": "1970-01-01"},
+    {"event": "World War I begins", "year": 1914, "date": "1970-01-01"},
+    {"event": "Russian Revolution", "year": 1917, "date": "1970-01-01"},
+    {"event": "End of World War I, Treaty of Versailles signed", "year": 1918, "date": "1970-01-01"},
+    {"event": "Spanish Flu pandemic", "year": 1918, "date": "1970-01-01"},
+    {"event": "Founding of the League of Nations", "year": 1920, "date": "1970-01-01"},
+    {"event": "Discovery of penicillin", "year": 1928, "date": "1970-01-01"},
+    {"event": "Great Depression begins", "year": 1929, "date": "1970-01-01"},
+    {"event": "Rise of Adolf Hitler and the Nazi Party in Germany", "year": 1933, "date": "1970-01-01"},
+    {"event": "World War II begins", "year": 1939, "date": "1970-01-01"},
+    {"event": "Attack on Pearl Harbor, US enters WWII", "year": 1941, "date": "1970-01-01"},
+    {"event": "Holocaust reaches its peak", "year": 1942, "date": "1970-01-01"}, # Representing a period
+    {"event": "D-Day landings", "year": 1944, "date": "1970-01-01"},
+    {"event": "End of World War II, atomic bombings of Hiroshima and Nagasaki", "year": 1945, "date": "1970-01-01"},
+    {"event": "Founding of the United Nations", "year": 1945, "date": "1970-01-01"},
+    {"event": "Beginning of the Cold War", "year": 1947, "date": "1970-01-01"},
+    {"event": "Independence of India and Pakistan", "year": 1947, "date": "1970-01-01"},
+    {"event": "Establishment of the State of Israel", "year": 1948, "date": "1970-01-01"},
+    {"event": "Communist Revolution in China", "year": 1949, "date": "1970-01-01"},
+    {"event": "Korean War begins", "year": 1950, "date": "1970-01-01"},
+    {"event": "Discovery of DNA structure", "year": 1953, "date": "1970-01-01"},
+    {"event": "Warsaw Pact formed", "year": 1955, "date": "1970-01-01"},
+    {"event": "Launch of Sputnik, beginning of Space Age", "year": 1957, "date": "1970-01-01"},
+    {"event": "Cuban Revolution", "year": 1959, "date": "1970-01-01"},
+    {"event": "Civil Rights Movement gains momentum in the US", "year": 1960, "date": "1970-01-01"}, # Representing a period
+    {"event": "Year of Africa: many African nations gain independence", "year": 1960, "date": "1970-01-01"},
+    {"event": "Cuban Missile Crisis", "year": 1962, "date": "1970-01-01"},
+    {"event": "US lands on the Moon", "year": 1969, "date": "1970-01-01"},
+    {"event": "Vietnam War escalates", "year": 1964, "date": "1970-01-01"},
+    {"event": "Stonewall Riots, birth of modern LGBTQ+ rights movement", "year": 1969, "date": "1970-01-01"},
+    {"event": "Invention of the internet (ARPANET)", "year": 1969, "date": "1970-01-01"},
+    {"event": "Oil Crisis", "year": 1973, "date": "1970-01-01"},
+    {"event": "Fall of Saigon, end of Vietnam War", "year": 1975, "date": "1970-01-01"},
+    {"event": "Iranian Revolution", "year": 1979, "date": "1970-01-01"},
+    {"event": "Soviet invasion of Afghanistan", "year": 1979, "date": "1970-01-01"},
+    {"event": "Chernobyl disaster", "year": 1986, "date": "1970-01-01"},
+    {"event": "Fall of the Berlin Wall", "year": 1989, "date": "1970-01-01"},
+    {"event": "Dissolution of the Soviet Union", "year": 1991, "date": "1970-01-01"},
+    {"event": "World Wide Web becomes publicly available", "year": 1991, "date": "1970-01-01"},
+    {"event": "End of Apartheid in South Africa, Nelson Mandela elected president", "year": 1994, "date": "1970-01-01"},
+    {"event": "Rwandan Genocide", "year": 1994, "date": "1970-01-01"},
+    {"event": "September 11th attacks on the United States", "year": 2001, "date": "2001-09-11"},
+    {"event": "Global Financial Crisis", "year": 2008, "date": "2008-01-01"},
+    {"event": "Arab Spring begins", "year": 2010, "date": "2010-01-01"},
+    {"event": "COVID-19 pandemic begins", "year": 2019, "date": "2019-12-01"}, # Approximate start
+    {"event": "Development of CRISPR gene editing technology", "year": 2012, "date": "1970-01-01"},
+    {"event": "Paris Agreement on climate change signed", "year": 2015, "date": "1970-01-01"},
+    {"event": "Rise of social media platforms", "year": 2004, "date": "1970-01-01"}, # Representing a significant shift
+    {"event": "Creation of the Bitcoin cryptocurrency", "year": 2009, "date": "1970-01-01"},
+    {"event": "First known use of the term 'cyberspace'", "year": 1982, "date": "1970-01-01"},
+    {"event": "First successful in vitro fertilization (IVF)", "year": 1978, "date": "1970-01-01"},
+    {"event": "End of the Cold War (symbolic)", "year": 1989, "date": "1970-01-01"},
+    {"event": "Millennium Bug (Y2K) scare", "year": 1999, "date": "1970-01-01"},
+    {"event": "Decolonization of India and Pakistan", "year": 1947, "date": "1970-01-01"},
+    {"event": "Establishment of the European Union", "year": 1993, "date": "1970-01-01"}, # Maastricht Treaty
+    {"event": "Tiananmen Square protests and massacre", "year": 1989, "date": "1970-01-01"},
+    {"event": "Rise of Artificial Intelligence (deep learning)", "year": 2012, "date": "1970-01-01"}, # Significant breakthrough year
+    {"event": "Fukushima Daiichi nuclear disaster", "year": 2011, "date": "1970-01-01"},
+    {"event": "Invention of the World Wide Web", "year": 1989, "date": "1970-01-01"},
+    {"event": "First human genome sequenced", "year": 2003, "date": "1970-01-01"},
+    {"event": "Emergence of the Taliban in Afghanistan", "year": 1994, "date": "1970-01-01"},
+    {"event": "Formation of the OPEC cartel", "year": 1960, "date": "1970-01-01"},
+    {"event": "World Health Organization (WHO) established", "year": 1948, "date": "1970-01-01"},
+    {"event": "Declaration of Human Rights adopted by the UN", "year": 1948, "date": "1970-01-01"},
+    {"event": "Gutenberg Bible printed", "year": 1455, "date": "1970-01-01"},
+    {"event": "Voyage of the Beagle", "year": 1831, "date": "1970-01-01"},
+    {"event": "Discovery of the Rosetta Stone", "year": 1799, "date": "1970-01-01"},
+    {"event": "Publication of 'The Social Contract' by Rousseau", "year": 1762, "date": "1970-01-01"},
+    {"event": "Invention of the cotton gin", "year": 1793, "date": "1970-01-01"},
+    {"event": "Napoleonic Code enacted", "year": 1804, "date": "1970-01-01"},
+    {"event": "Publication of 'Frankenstein' by Mary Shelley", "year": 1818, "date": "1970-01-01"},
+    {"event": "Invention of the telegraph", "year": 1837, "date": "1970-01-01"},
+    {"event": "Publication of 'Uncle Tom's Cabin'", "year": 1852, "date": "1970-01-01"},
+    {"event": "Opening of the Suez Canal", "year": 1869, "date": "1970-01-01"},
+    {"event": "Invention of the automobile (internal combustion engine)", "year": 1876, "date": "1970-01-01"}, # Benz Patent-Motorwagen
+    {"event": "Invention of the radio", "year": 1895, "date": "1970-01-01"},
+    {"event": "Ford Model T introduced", "year": 1908, "date": "1970-01-01"},
+    {"event": "Titanic sinks", "year": 1912, "date": "1912-04-15"},
+    {"event": "Bolshevik Revolution", "year": 1917, "date": "1917-11-07"}, # Julian calendar date, often cited
+    {"event": "Establishment of the United Nations", "year": 1945, "date": "1945-10-24"}, # UN Day
+    {"event": "Nuremberg Trials begin", "year": 1945, "date": "1970-01-01"},
+    {"event": "Declaration of Independence of the United States", "year": 1776, "date": "1776-07-04"},
+    {"event": "Storming of the Bastille", "year": 1789, "date": "1789-07-14"},
+    {"event": "Invention of the steam locomotive", "year": 1804, "date": "1970-01-01"}, # Trevithick's locomotive
+    {"event": "Publication of 'Moby Dick'", "year": 1851, "date": "1970-01-01"},
+    {"event": "Opening of the Panama Canal", "year": 1914, "date": "1970-01-01"},
+    {"event": "Gettysburg Address", "year": 1863, "date": "1863-11-19"},
+    {"event": "French Revolution begins", "year": 1789, "date": "1789-05-05"}, # Estates-General convenes
+    {"event": "Discovery of X-rays", "year": 1895, "date": "1970-01-01"},
+    {"event": "Einstein's photoelectric effect paper", "year": 1905, "date": "1970-01-01"},
+    {"event": "Treaty of Versailles signed", "year": 1919, "date": "1919-06-28"},
+    {"event": "Stock Market Crash of 1929", "year": 1929, "date": "1929-10-29"}, # Black Tuesday
+    {"event": "Germany invades Poland", "year": 1939, "date": "1939-09-01"},
+    {"event": "Battle of Britain", "year": 1940, "date": "1970-01-01"}, # Representing a period
+    {"event": "Operation Barbarossa (German invasion of Soviet Union)", "year": 1941, "date": "1941-06-22"},
+    {"event": "V-E Day (Victory in Europe)", "year": 1945, "date": "1945-05-08"},
+    {"event": "V-J Day (Victory over Japan)", "year": 1945, "date": "1945-09-02"},
+    {"event": "Founding of NATO", "year": 1949, "date": "1970-01-01"},
+    {"event": "Chinese Civil War ends", "year": 1949, "date": "1970-01-01"},
+    {"event": "Salk polio vaccine announced", "year": 1955, "date": "1970-01-01"},
+    {"event": "Brown v. Board of Education decision", "year": 1954, "date": "1970-01-01"},
+    {"event": "Belgrade Conference of Non-Aligned Movement", "year": 1961, "date": "1970-01-01"},
+    {"event": "First man walks on the Moon", "year": 1969, "date": "1969-07-20"},
+    {"event": "Watergate scandal breaks", "year": 1972, "date": "1970-01-01"},
+    {"event": "Fall of the Berlin Wall", "year": 1989, "date": "1989-11-09"},
+    {"event": "Collapse of the Soviet Union", "year": 1991, "date": "1991-12-26"},
+    {"event": "Genocide in Srebrenica", "year": 1995, "date": "1970-01-01"},
+    {"event": "Rise of the internet and dot-com boom", "year": 1995, "date": "1970-01-01"}, # Representing a period
+    {"event": "Dot-com bubble bursts", "year": 2000, "date": "1970-01-01"},
+    {"event": "9/11 attacks", "year": 2001, "date": "2001-09-11"},
+    {"event": "Invasion of Iraq", "year": 2003, "date": "2003-03-20"},
+    {"event": "Global Financial Crisis begins", "year": 2007, "date": "1970-01-01"}, # Subprime mortgage crisis
+    {"event": "Arab Spring begins", "year": 2010, "date": "2010-12-18"}, # First protest in Tunisia
+    {"event": "Brexit vote", "year": 2016, "date": "2016-06-23"},
+    {"event": "COVID-19 pandemic declared", "year": 2020, "date": "2020-03-11"},
+    {"event": "First known use of fire by hominids", "year": -1500000, "date": "1970-01-01"}, # Very approximate
+    {"event": "Bronze Age begins", "year": -3300, "date": "1970-01-01"}, # Approximate start
+    {"event": "Iron Age begins", "year": -1200, "date": "1970-01-01"}, # Approximate start
+    {"event": "Classical Greece", "year": -500, "date": "1970-01-01"}, # Representing a period
+    {"event": "Roman Republic", "year": -509, "date": "1970-01-01"}, # Founding
+    {"event": "Pax Romana", "year": -27, "date": "1970-01-01"}, # Beginning
+    {"event": "Tang Dynasty in China", "year": 618, "date": "1970-01-01"}, # Founding
+    {"event": "Viking Age", "year": 793, "date": "1970-01-01"}, # Lindisfarne raid
+    {"event": "High Middle Ages", "year": 1000, "date": "1970-01-01"}, # Representing a period
+    {"event": "Renaissance begins", "year": 1300, "date": "1970-01-01"}, # Approximate start
+    {"event": "Age of Exploration", "year": 1400, "date": "1970-01-01"}, # Representing a period
+    {"event": "Protestant Reformation", "year": 1517, "date": "1970-01-01"}, # Luther's theses
+    {"event": "Scientific Revolution", "year": 1543, "date": "1970-01-01"}, # Copernicus's publication
+    {"event": "Age of Enlightenment", "year": 1715, "date": "1970-01-01"}, # Start of period
+    {"event": "Industrial Revolution", "year": 1760, "date": "1970-01-01"}, # Approximate start
+    {"event": "Imperialism", "year": 1870, "date": "1970-01-01"}, # Peak of period
+    {"event": "World War I", "year": 1914, "date": "1970-01-01"}, # Start
+    {"event": "Great Depression", "year": 1929, "date": "1970-01-01"}, # Start
+    {"event": "World War II", "year": 1939, "date": "1970-01-01"}, # Start
+    {"event": "Cold War", "year": 1947, "date": "1970-01-01"}, # Start
+    {"event": "Decolonization", "year": 1945, "date": "1970-01-01"}, # Start of major wave
+    {"event": "Information Age", "year": 1980, "date": "1970-01-01"} # Approximate start
+]

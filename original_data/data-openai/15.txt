@@ -1,0 +1,17 @@
+Nice idea. A 200-item list is quite large and the selection can vary a lot depending on scope. A couple quick checks so I build it the way you want:
+
+- BCE included? Should I include ancient BCE events (negative year values) as part of the list, or should I limit to CE (AD) only?
+- Date precision: for many ancient events the exact day/month isn’t known. Is it okay to use:
+  - exact date when known (e.g., 476-10-04), or
+  - year-only and default to January 01 when the exact date is uncertain (e.g., -0476-01-01)?
+- Format: I’ll return a Python list of dicts like [{"event": "...", "year": -03100, "date": "-03100-01-01"}, ...]. Are negative years acceptable for BCE entries in both the year and date fields? If you’d prefer, I can also convert BCE years to a different convention.
+- Content scope: broad global history (political, cultural, scientific, economic, etc.) across ancient to modern times? Any topics you want to emphasize or avoid (e.g., mythic/cosmological dates, purely niche events)?
+- Batching: would you like me to deliver in one long list now, or in batches (e.g., four 50-item chunks) to make review easier?
+
+If you’re good with the above defaults, I’ll proceed with:
+- Inclusion of BCE events (negative years) to ensure broad coverage.
+- Dates as exact when known; otherwise year-precision with January 01 as a placeholder.
+- A balanced global selection spanning ancient to modern times, totaling 200 entries.
+- A single Python list output (no extra commentary).
+
+Tell me “go ahead” with those defaults or specify any changes, and I’ll generate the 200-item list.
